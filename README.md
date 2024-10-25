@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my second Git Repository <br>
-Author - Lokendra Rajput
+Author - Lokendra Singh Rajput
